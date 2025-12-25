@@ -1,9 +1,11 @@
 Parallel Web Crawler
 
-📌 Project Overview
+📌 Project Overview:
+
 This project implements a **Parallel Web Crawler** in Java that efficiently crawls multiple web pages concurrently using **multithreading**, while respecting depth limits, timeouts, and parallelism constraints.
 
-🛠️ Technologies Used
+🛠️ Technologies Used:
+
 -  Java
  
 -  Maven
@@ -12,7 +14,8 @@ This project implements a **Parallel Web Crawler** in Java that efficiently craw
    
 -  Parallel Streams  
 
-✨ Features
+✨ Features:
+
 -  Crawls multiple web pages concurrently
   
 -  Respects crawl depth and timeout limits
@@ -21,7 +24,7 @@ This project implements a **Parallel Web Crawler** in Java that efficiently craw
   
 -  Tested using Maven  
 
- ▶️ How to Run
+ ▶️ How to Run:
 
 1. Clone the repository:
    git clone https://github.com/TanmaiSathuri/Parallel-Web-Crawler-Project.git
