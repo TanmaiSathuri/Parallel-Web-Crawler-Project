@@ -22,7 +22,17 @@ This project implements a **Parallel Web Crawler** in Java that efficiently craw
     
 -  Efficient thread management
   
--  Tested using Maven  
+-  Tested using Maven
+
+📁 Project Structure:
+
+    webcrawler
+    ├── pom.xml
+    ├── src
+    │   ├── main/java/com/udacity/webcrawler
+    │   └── test/java/com/udacity/webcrawler
+    └── README.md
+
 
  ▶️ How to Run:
 
